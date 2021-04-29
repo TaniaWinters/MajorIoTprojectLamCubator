@@ -1,0 +1,58 @@
+body
+{
+    max-width: 100%;
+    font-family:sans-serif;
+    position: justify all;
+    color: green;
+    letter-spacing: .2em;
+}
+section li ul 
+{
+    list-style-type: circle;
+}
+.footerStyle
+{
+    text-align: center;
+    background-color: green;
+    color: white;
+    position: justify all;
+    margin: 1px solid;
+}
+
+#liStyle img
+{
+    width: 150px;
+        
+}
+
+
+#liStyle
+{
+     list-style-type: none;
+     align-content: flex-end;
+     text-align: center; 
+     
+}
+
+.stylelogo 
+{
+    animation-play-state: running;
+    width: 25%;
+    margin-left: 40%;
+    margin-top: -2%;
+    
+}
+header
+{
+    background-color: lightgray;
+    margin-top: -1px;
+}
+header h1
+{
+    margin-top: -7%;
+    text-align: justify all left;
+    margin-left: 45%;
+    font-style: oblique;
+}
+
+
